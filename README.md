@@ -2,7 +2,7 @@
 [![Run with TryThisSoftware](https://trythissoftware.com/api/badge/rkendel1/calories-tracker-local-only-app?format=detailed)](https://trythissoftware.com/launch/rkendel1/calories-tracker-local-only-app)
 
 > You can read a full overview of the project: [Local-only calories tracker app](https://www.typeonce.dev/course/calories-tracker-local-only-app)
-
+randy did this
 A new paradigm of building apps is coming to the web: **Local-first**.
 
 One of the key components of a local-first app is having a **local data store**. [PGlite](https://pglite.dev/) brings the database to the client, allowing you to build apps completely offline.
