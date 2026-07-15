@@ -1,7 +1,7 @@
 {
   "adoption_events": [
     {
-      "at": 1784144595,
+      "at": 1784144956,
       "event": "adoption_prepared",
       "summary": "TryThisSoftware adoption metadata, launch configuration, badge, and GitHub sync plan were generated."
     }
